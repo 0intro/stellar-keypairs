@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/0intro/stellar-keypairs.svg?branch=master)](https://travis-ci.org/0intro/stellar-keypairs)
+[![Build Status](https://github.com/0intro/stellar-keypairs/workflows/Go/badge.svg)](https://github.com/0intro/stellar-keypairs/actions/workflows/go.yml)
 
 Stellar-KeyPairs
 ================
